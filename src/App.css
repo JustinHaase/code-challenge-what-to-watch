@@ -20,7 +20,6 @@ body {
   flex-direction: row;
   overflow: hidden;
   padding: none;
-  font-size: 1rem;
 }
 img {
   height: 100%;
@@ -38,6 +37,11 @@ img {
   height: 100%;
   position: auto;
   display: inline-block;
+}
+
+p {
+  font-size: 5px;
+  color: gray;
 }
 
 .rating {
